@@ -2,7 +2,7 @@
 
 I captured the same kind of traffic twice in my home lab, once over SSH (encrypted) and once over HTTP (plaintext), and compared what Wireshark can see.
 
-**Full report with screenshots:**
+**Full report with screenshots:** [ssh-vs-http-traffic-capture.pdf](https://github.com/user-attachments/files/33249497/ssh-vs-http-traffic-capture.pdf)
 
 ## Key findings
 
