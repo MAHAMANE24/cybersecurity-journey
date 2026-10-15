@@ -1,0 +1,75 @@
+=== WINDOWS AUDITS ===
+
+Wednesday, October 14, 2026 7:54:53 AM
+Machine : XXXX
+User : XXXX
+
+=== Local accounts ===
+
+Name    : Administrateur
+Enabled : False
+
+
+Name    : DefaultAccount
+Enabled : False
+
+
+Name    : Invité
+Enabled : False
+
+
+Name    : XXXX
+Enabled : True
+
+
+Name    : WDAGUtilityAccount
+Enabled : False
+
+
+=== Members of the Administrators group ===
+
+Name : XXXX\Administrateur
+
+
+Name : XXXX\XXXX
+
+
+=== Services ===
+Running services: 84
+Stopped services: 175
+
+=== Startup programs (Run Keys) ===
+Current user (HKCU)
+
+
+
+OneDrive                                : "C:\Users\XXXX\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+MicrosoftEdgeAutoLaunch_XXXX            : "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start
+
+
+
+All users (HKLM)
+
+
+SecurityHealth : C:\Windows\system32\SecurityHealthSystray.exe
+
+
+
+=== Scheduled taks outside \Microsoft\Windows ===
+
+
+TaskPath : \
+TaskName : OneDrive Reporting Task-S-1-5-XXXX
+State    : Ready
+
+TaskPath : \
+TaskName : OneDrive Standalone Update Task-S-1-5-XXXX
+State    : Ready
+
+TaskPath : \Microsoft\XblGameSave\
+TaskName : XblGameSaveTask
+State    : Ready
+
+
+
+=== END OF AUDIT ====
