@@ -17,10 +17,11 @@ Part of my 6-month cybersecurity roadmap (Month 2). Learning in public, mistakes
 
 ## Files
 
-- [Carousel PDF]([week-06-windows-security-and-logs.pdf](https://github.com/user-attachments/files/33787323/week-06-windows-security-and-logs.pdf)
-)
+- [Carousel PDF] [week-06-windows-security-and-logs.pdf](https://github.com/user-attachments/files/33787388/week-06-windows-security-and-logs.pdf)
+
 ): the visual recap
-- [Full report]([windows-security-baseline-week6.md](https://github.com/user-attachments/files/33787304/windows-security-baseline-week6.md)
+- [Full report] [windows-security-baseline-week6.md](https://github.com/user-attachments/files/33787407/windows-security-baseline-week6.md)
+
 ): commands, findings and the mistakes I made
 
 ## Limits
